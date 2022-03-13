@@ -6,7 +6,9 @@
 
 
     @authors: 
+     - Duvan Felipe Pacheco (dupachecor@unal.edu.co)
      - Andrés Morales (amoralesma@unal.edu.co) 
+     
 '''
 from gui.GUI import GUI
 
